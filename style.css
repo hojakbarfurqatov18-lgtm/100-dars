@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 700px;
+    position: relative;
+    bottom: 25px;
+    gap: 50px;
+}
+
+.yuyu {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: black;
+}
+
+.btn {
+    width: 173px;
+    height: 45px;
+    opacity: 1;
+    left: 937px;
+    bottom: 50px;
+    border-radius: 20px;
+    background-color: #BA4270;
+}
+
+.ppp {
+    font-family: DM Serif Display;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 72px;
+    letter-spacing: -0.55px;
+    position: relative;
+    bottom: 500px;
+    margin-right: 1000px;
+}
+
+.ipi {
+    margin-left: 800px;
+
+}
+
+.magin {
+    margin-left: 875px;
+    position: relative;
+    bottom: 450px;
+}
+
+.vscodes {
+    position: relative;
+    bottom: 350px;
+}
+
+.hero {
+    position: relative;
+    bottom: 350px;
+    margin-left: 900px;
+}
+
+.jjj {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.brain {
+    position: relative;
+    bottom: 350px;
+}
+
+
+.figma {
+    position: relative;
+    bottom: 350px;
+    margin-top: 50px;
+    width: 350px;
+    height: 25px;
+    opacity: 1;
+    color: #36536B;
+}
